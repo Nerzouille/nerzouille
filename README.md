@@ -1,28 +1,63 @@
-<h1 align="center">Hey 👋, Noa SMOTER</h1>
-<h3 align="center">Promo 2028 d'Epitech Lyon</h3>
+<h1 align="center">Hey 👋, Noa Smoter</h1>
+<h3 align="center">Étudiant à Epitech Lyon – Promo 2028</h3>
 
-- Je suis actuellement à la recherche d'un stage de 4 à 6 mois<br>En développement informatique dans le cadre de ma deuxième année
-- 📄 Mon portfolio: [https://nerzouille.github.io/](https://nerzouille.github.io/)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/noa-smoter" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="noa smoter" height="30" width="40" /></a>
+<p align="center">
+💡 Passionné par l'algorithmie, l'intelligence artificielle et le développement concret de solutions utiles.<br>
+🎯 Bientôt en 3ᵉ année, je continue d’explorer et de créer des projets qui allient technologie et impact.<br>
+🔗 <a href="https://noasmoter.vercel.app" target="_blank">Lien vers mon portfolio</a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+---
 
-<!--
-**Nerzouille/nerzouille** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 En ce moment :
+- 🔬 Je travaille sur un **chatbot IA de conseil crypto** avec l’association <strong>POC</strong>.
+- 🎓 Je suis impliqué dans le suivi et l’accompagnement des étudiants avec <strong>Taker</strong>.
+- 💻 J’expérimente sur des projets personnels et associatifs pour enrichir mes compétences.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Mes technos & outils préférés :
+#### 🧠 **Intelligence Artificielle & Algorithmie**
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40"/>
+  <img src="https://pytorch.org/assets/images/logo.png" alt="PyTorch" width="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" alt="Jupyter" width="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/Scikit_learn_logo_small.svg" alt="scikit-learn" width="40"/>
+</p>
+<ul>
+  <li>Machine Learning</li>
+  <li>Deep Learning</li>
+  <li>Natural Language Processing</li>
+  <li>TensorFlow, PyTorch, scikit-learn, Jupyter</li>
+</ul>
+
+#### 💻 **Développement**
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JS" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TS" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40"/>
+</p>
+
+#### 🔧 **Outils & Technologies**
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40"/>
+  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/000000/external-rest-api-is-an-application-programming-interface-that-conforms-to-the-rest-architectural-style-logo-color-tal-revivo.png" alt="REST APIs" width="40"/>
+</p>
+
+---
+
+### 🤝 Me contacter :
+<p align="left">
+  <a href="https://linkedin.com/in/noa-smoter" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="30"/></a>
+</p>
+
+---
+
+<sub><i>✨ Ce README est vivant – il évolue au fil de mes projets et expériences.</i></sub>
