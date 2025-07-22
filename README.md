@@ -4,7 +4,7 @@
 <p align="center">
 💡 Passionné par l'algorithmie, l'intelligence artificielle et le développement concret de solutions utiles.<br>
 🎯 Bientôt en 3ᵉ année, je continue d’explorer et de créer des projets qui allient technologie et impact.<br>
-🔗 <a href="https://noasmoter.vercel.app" target="_blank">Lien vers mon portfolio</a>
+🔗 <a href="https://noasmoter.com target="_blank">Lien vers mon portfolio</a>
 </p>
 
 ---
