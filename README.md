@@ -7,7 +7,7 @@
 
   <p>
     <a href="https://noasmoter.com">Portfolio</a> •
-    <a href="https://github.com/Nerzouille/resume">Resume (PDF)</a> •
+    <a href="https://github.com/Nerzouille/resume/releases/download/resume/Noa_SMOTER_Resume.pdf">Resume (PDF)</a> •
     <a href="https://linkedin.com/in/noa-smoter">LinkedIn</a>
   </p>
 </div>
